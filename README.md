@@ -1,7 +1,6 @@
 # DATABRICKS-x-DBT-End-To-End-Data-Engineering-Project
 !['Project WorkFlow'](https://github.com/QaziSaim/DATABRICKS-x-DBT-End-To-End-Data-Engineering-Project/blob/main/Screenshot%202025-06-29%20212439.png)
 
-Sure! Here's the **updated and enhanced `README.md`** for your **Databricks End-to-End Flights Project**, now including:
 
 * Use of **serverless compute**
 * Runtime duration (\~5 minutes)
@@ -143,10 +142,3 @@ dbutils.jobs.taskValues.set(key="output_key", value=src_array)
 
 * [ ] Implement **Silver Layer** for data cleaning and filtering
 * [ ] Add **Gold Layer** for aggregations and BI readiness
-* [ ] Integrate with **Power BI** / **Excel** / **Tableau**
-* [ ] Add **unit tests** for pipeline components
-
----
-
-Let me know if you’d like this saved as a `.md` file or pushed directly to a GitHub repo structure.
-
